@@ -23,7 +23,6 @@ DisableIndexing
 !ShowSmallTaskbarIcons
 ShowLargeTaskbarIcons
 SetControlPanelLargeIcons
-UninstallWindowsStore
 UninstallMediaPlayer
 UninstallPDFPrinter
 !SetVisualFXPerformance
@@ -34,6 +33,11 @@ HideIncludeInLibraryMenu
 HideGiveAccessToMenu
 HideShareMenu
 HideShortcutArrow
+DisableNetBIOS
+DisableF1HelpKey
+DisableAccessibilityKeys
+DisableFullscreenOptims
+DisableConnectionSharing
 
 !Restart
 WaitForKey
