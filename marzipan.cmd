@@ -6,8 +6,9 @@ choco install -y dropbox
 choco install -y firefox
 choco install -y foxitreader
 choco install -y googlechrome
-choco install -y skype
+choco install -y irfanview
 choco install -y qBittorrent
+choco install -y skype
+choco install -y vcxsrv
 choco install -y vlc
-choco install -y vpnac
 choco install -y whatsapp
