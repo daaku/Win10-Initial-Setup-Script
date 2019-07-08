@@ -37,6 +37,7 @@ DisableF1HelpKey
 DisableAccessibilityKeys
 DisableFullscreenOptims
 DisableConnectionSharing
+!DisableActionCenter
 
 !Restart
 WaitForKey
