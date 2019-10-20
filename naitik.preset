@@ -38,6 +38,9 @@ DisableAccessibilityKeys
 DisableFullscreenOptims
 DisableConnectionSharing
 !DisableActionCenter
+DisableWebSearch
+ShowBuildNumberOnDesktop
+DisableMSNetClient
 
 !Restart
 WaitForKey
