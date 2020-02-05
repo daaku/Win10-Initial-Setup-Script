@@ -15,8 +15,6 @@ DisableStartupSound
 DisableSharingWizard
 UninstallInternetExplorer
 UninstallWorkFolders
-EnableDeveloperMode
-InstallLinuxSubsystem
 UninstallFaxAndScan
 HideRecentlyAddedApps
 DisableIndexing
