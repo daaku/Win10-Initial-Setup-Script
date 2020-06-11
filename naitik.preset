@@ -40,6 +40,10 @@ DisableConnectionSharing
 DisableWebSearch
 ShowBuildNumberOnDesktop
 DisableMSNetClient
+UninstallMathRecognizer
+UninstallSSHServer
+UninstallTelnetClient
+UninstallPowerShellISE
 
 !Restart
 WaitForKey
