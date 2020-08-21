@@ -22,7 +22,6 @@ DisableIndexing
 ShowLargeTaskbarIcons
 SetControlPanelLargeIcons
 UninstallMediaPlayer
-UninstallPDFPrinter
 !SetVisualFXPerformance
 SetVisualFXNaitik
 !HideDesktopFromThisPC
@@ -44,6 +43,7 @@ UninstallMathRecognizer
 UninstallSSHServer
 UninstallTelnetClient
 UninstallPowerShellISE
+DisableMediaOnlineAccess
 
 !Restart
 WaitForKey
